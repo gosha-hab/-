@@ -1,0 +1,87 @@
+/* Задание 2 */
+body{
+    background-color: beige;
+}
+
+/* Задание 3 */
+.nav__item a{
+    color: chocolate;
+    font-size: large;
+}
+.nav{
+    list-style: none;
+}
+
+/* Задание 4 */
+h1{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+.kratkoeopisanie{
+    color: rgb(85, 85, 218);
+    font-size: 18px;
+    font-style: italic;
+    line-height: 16px;
+}
+.podrobnoeopisanie{
+    color: rgb(#484343);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.haracter{
+    color: salmon;
+    font-size: 25px;
+}
+ .haracter li{
+    list-style: none;
+    background: url('../img/faq_list5_2.png') no-repeat 0 4px;
+    padding-left: 24px;
+}
+
+/* Задание 5 */
+input{
+    width: 200px;
+    height: 25px;
+    color: salmon;
+}
+
+/* Задание 6 */
+.img{
+    border: 4px double black; /* Параметры границы */
+}
+
+/* Задание 7 */
+.nav__item a:hover{
+    color: sandybrown;
+}
+
+/* Задание 10 */
+.email:focus{
+    background-color: sienna;
+}
+
+/* Задание 11 */
+input{
+    text-transform: capitalize;
+}
+
+/* Задание 13 */
+.img:hover{
+    border: 0 double black; /* Параметры границы */
+}
+
+/* Задание 14 */
+.katalog_main::first-letter{
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+}
+
+/* Задание 15 */
+
+/* Задание 16 */
+
+/* Задание 17 */
